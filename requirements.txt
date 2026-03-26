@@ -1,0 +1,23 @@
+# 创意写作 AI Agent 依赖包
+
+# 核心依赖（如果使用 LLM）
+# openai>=1.0.0
+# anthropic>=0.18.0
+# langchain>=0.1.0
+
+# 可选依赖（用于数据处理和可视化）
+# numpy>=1.24.0
+# pandas>=2.0.0
+# matplotlib>=3.7.0
+# plotly>=5.14.0
+
+# 开发依赖
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.5.0
+
+# Web 框架（如果要开发 Web 界面）
+# fastapi>=0.100.0
+# uvicorn>=0.23.0
+# streamlit>=1.25.0
